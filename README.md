@@ -47,3 +47,10 @@ Si se puede hacer ping entre los contenedores.
 --ping 172.17.0.3 o --ping 172.17.0.2
 
 
+6-Sal del terminal, ¿que ocurrió con el contenedor?
+
+Sigue en ejecución.
+
+--sudo docker ps -a
+
+
