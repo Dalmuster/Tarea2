@@ -59,4 +59,8 @@ Para los dos se utiliza un total de 0,02% de memoria.
 
 --sudo docker stats
 
+8-¿Cuanta RAM ocupan los contenedores? ¿Hay algún comando docker para saber esto?.
 
+Los contenedores ocupan entre los dos 1040KiB para saberlo existe el comando 
+
+--sudo docker stats
