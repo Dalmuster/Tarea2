@@ -36,5 +36,14 @@ Se puede acceder a el con el comando
 Tiene la ip 172.17.0.2 y si puede hacer ping a google.
 
 --ip addr (Dentro de el contenedor)
+5-Crea un contenedor con el nombre 'dam_alp2'. ¿Puedes hacer ping entre los contenedores?
+
+Se crea con el comando 
+
+--sudo docker run --name=dam_alp2 alpine /bin/sh 
+
+Si se puede hacer ping entre los contenedores.
+
+--ping 172.17.0.3 o --ping 172.17.0.2
 
 
