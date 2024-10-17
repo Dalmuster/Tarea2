@@ -31,4 +31,10 @@ Se puede acceder a el con el comando
 
 --docker exec -it dam_alp1 /bin/bash.
 
+4-Comprueba que ip tiene y si puedes hacer un ping a google.com
+
+Tiene la ip 172.17.0.2 y si puede hacer ping a google.
+
+--ip addr (Dentro de el contenedor)
+
 
