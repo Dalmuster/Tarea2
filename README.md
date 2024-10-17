@@ -53,4 +53,10 @@ Sigue en ejecución.
 
 --sudo docker ps -a
 
+7-¿Cuanta memoria en el disco duro ocupaste?
+
+Para los dos se utiliza un total de 0,02% de memoria.
+
+--sudo docker stats
+
 
